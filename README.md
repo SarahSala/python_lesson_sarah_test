@@ -3,10 +3,14 @@
 
 ## Author
 
-Sarah Sala
+Salamon, Sarah 
  
 ## Date
 
 2020-02-04
+
+## Location 
+
+Cologne
 
  
